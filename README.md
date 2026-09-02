@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/103902448/164163511-37d22660-905c-4355-a6f4-91c6eee2d1a4.png)
+![image](/assets/images/pixelart_city.jpg)
 # Welcome to my blog
 Documenting my developments and projects
 <br /><br />
